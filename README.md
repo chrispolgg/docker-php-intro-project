@@ -1,7 +1,7 @@
 <h1 align="center">
   <b>docker-php-intro-project</b>
 </h1>
-<p>This is an introduction project to working with PHP and Docker</p>
+<p>This is an introduction project to working with PHP and Docker. The image that is being used for PHP is the 8.2 version. The image also contains the APACHE Web Server.</p>
 
 
 
